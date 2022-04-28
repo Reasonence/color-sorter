@@ -1,0 +1,16 @@
+{
+  "name": "color-sorter-backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Omran Jamal <omran.jamal@g.bracu.ac.bd>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4",
+    "serialport": "^10.4.0",
+    "socket.io": "^4.5.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.6",
+    "utf-8-validate": "^5.0.9"
+  }
+}
